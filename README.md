@@ -53,8 +53,3 @@ You need to have installed following softwares and libraries in your machine bef
 * XGBoost - Used for making regression models
 *	Surprise - used for making recommendation system models
 
-## Authors
-*	Gaurav Sharma - Complete work  
-
-## Acknowledgments
-*	Applied AI Course
